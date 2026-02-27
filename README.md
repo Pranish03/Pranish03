@@ -9,6 +9,6 @@ I'm passionate about building **web applications**, learning **system design**, 
 
 ## Connect With Me
 
+- Email: pc@pranishchaulagain.com.np
 - Portfolio: https://pranishchaulagain.com.np
 - LinkedIn: https://www.linkedin.com/in/pranish-chaulagain-3b174b325/
-- Email: pc@pranishchaulagain.com.np

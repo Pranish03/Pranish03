@@ -1,4 +1,4 @@
-# Hi 👋, I'm Pranish
+# Hi, I'm Pranish
 
 I'm passionate about building **web applications**, learning **system design**, and exploring **data science & machine learning**.
 
@@ -12,4 +12,3 @@ I'm passionate about building **web applications**, learning **system design**, 
 - Portfolio: https://pranishchaulagain.com.np
 - LinkedIn: https://www.linkedin.com/in/pranish-chaulagain-3b174b325/
 - Email: pc@pranishchaulagain.com.np
-- 📧 Email: [pc@pranishchaulagain.com.np](mailto:pc@pranishchaulagain.com.np)

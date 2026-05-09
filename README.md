@@ -6,6 +6,10 @@ Full Stack Developer passionate about building scalable web applications, explor
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,python,cpp" />
 </p>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranish03&show_icons=true" />
+</p>
+
 ## Tech
 - React
 - Next.js

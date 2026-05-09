@@ -1,62 +1,32 @@
 # Hi, I'm Pranish
 
-Full Stack Developer passionate about building scalable web applications, exploring system design, and learning AI/ML.
+Full Stack Developer passionate about building scalable web applications, exploring low-level system, and learning AI/ML.
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,python,cpp" />
+</p>
 
-## About Me
-
-- Building modern web applications with the MERN stack
-- Interested in Systems, Backend Architecture, and AI/ML
-- Currently learning Machine Learning, Neural Networks, and System Design
-- Love creating real-world projects and experimenting with new technologies
-
----
-
-## Tech Stack
-
-### Frontend
-- React.js
+## Tech
+- React
 - Next.js
-- JavaScript / TypeScript
-- HTML / CSS / Tailwind CSS
-
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-
-### Currently Exploring
-- Machine Learning
-- Neural Networks
-- Data Science
-- System Design
+- Node.js / Express
 - Python
 
----
-
-## Interests
-
-- Web Applications
+## Interested In
 - Systems Programming
-- AI & Machine Learning
-- Backend Engineering
-- Performance Optimization
+- Compilers
+- Programming Languages
+- Databases
+- CLI Tools
+- AI / Machine Learning
 
----
+## Currently Learning
+- Machine Learning
+- Neural Networks
+- Low-level Systems
+- Language & Runtime Design
 
-## Current Goals
-
-- Learn deep learning fundamentals
-- Build AI-powered web applications
-- Improve system design knowledge
-- Contribute to open-source projects
-
----
-
-## Connect With Me
-
-- Email: pc@pranishchaulagain.com.np
-- Portfolio: https://pranishchaulagain.com.np
-- LinkedIn: https://www.linkedin.com/in/pranish-chaulagain-3b174b325/
-
+## Links
+- Portfolio → https://pranishchaulagain.com.np
+- LinkedIn → https://www.linkedin.com/in/pranish-chaulagain-3b174b325/
+- Email → pc@pranishchaulagain.com.np

@@ -18,7 +18,7 @@
 
 ### Interests
 
-`Systems Programming` &nbsp; `Compilers` &nbsp; `Algorithms & Data Structures` &nbsp; `Databases` &nbsp; `CLI Tools` &nbsp; `AI / ML`
+`Systems Programming` &nbsp; `Compilers` &nbsp; `Algorithms & Data Structures` &nbsp; `Databases` &nbsp; `CLI Tools` &nbsp; `Data Science` &nbsp; `AI / ML`
 
 
 ### Currently Learning

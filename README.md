@@ -1,19 +1,19 @@
-# Hi, I'm Pranish 👋
+# Hi, I'm Pranish
 
 Full Stack Developer passionate about building scalable web applications, exploring system design, and learning AI/ML.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💻 Building modern web applications with the MERN stack
-- ⚡ Interested in Systems, Backend Architecture, and AI/ML
-- 📚 Currently learning Machine Learning, Neural Networks, and System Design
-- 🛠 Love creating real-world projects and experimenting with new technologies
+- Building modern web applications with the MERN stack
+- Interested in Systems, Backend Architecture, and AI/ML
+- Currently learning Machine Learning, Neural Networks, and System Design
+- Love creating real-world projects and experimenting with new technologies
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - React.js
@@ -35,17 +35,17 @@ Full Stack Developer passionate about building scalable web applications, explor
 
 ---
 
-## 📌 Interests
+## Interests
 
 - Web Applications
-- Distributed Systems
+- Systems Programming
 - AI & Machine Learning
 - Backend Engineering
 - Performance Optimization
 
 ---
 
-## 🌱 Current Goals
+## Current Goals
 
 - Learn deep learning fundamentals
 - Build AI-powered web applications
@@ -54,7 +54,7 @@ Full Stack Developer passionate about building scalable web applications, explor
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - Email: pc@pranishchaulagain.com.np
 - Portfolio: https://pranishchaulagain.com.np

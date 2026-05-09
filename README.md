@@ -3,9 +3,15 @@
   <h2>Pranish Chaulagain</h2>
   <p>Full Stack Developer · Systems & AI/ML enthusiast</p>
 
-  <a href="https://pranishchaulagain.com.np">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/pranish-chaulagain-3b174b325/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:pc@pranishchaulagain.com.np">Email</a>
+  <a href="https://pranishchaulagain.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/pranish-chaulagain-3b174b325/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pc@pranishchaulagain.com.np">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 

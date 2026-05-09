@@ -3,7 +3,7 @@
 Full Stack Developer passionate about building scalable web applications, exploring low-level system, and learning AI/ML.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,python,cpp" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,python,cpp" />
 </p>
 
 ## Tech

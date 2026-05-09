@@ -3,15 +3,9 @@
   <h2>Pranish Chaulagain</h2>
   <p>Full Stack Developer · Systems & AI/ML enthusiast</p>
 
-  <a href="https://pranishchaulagain.com.np">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/pranish-chaulagain-3b174b325/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:pc@pranishchaulagain.com.np">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://pranishchaulagain.com.np)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranish-chaulagain-3b174b325/)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pc@pranishchaulagain.com.np)
 </div>
 
 
@@ -24,7 +18,7 @@
 
 ### Interests
 
-`Systems Programming` &nbsp; `Compilers` &nbsp; `Programming Languages` &nbsp; `Databases` &nbsp; `CLI Tools` &nbsp; `AI / ML`
+`Systems Programming` &nbsp; `Compilers` &nbsp; `Algorithms & Data Structures` &nbsp; `Databases` &nbsp; `CLI Tools` &nbsp; `AI / ML`
 
 
 ### Currently Learning
@@ -39,7 +33,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Pranish03&theme=transparent&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranish03&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Pranish03&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranish03&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranish03&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" /> -->
 </div>

@@ -12,7 +12,7 @@
 ### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,typescript,react,nextjs,express,fastapi" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,typescript,react,nextjs,express,fastapi,pytorch" />
 </p>
 
 

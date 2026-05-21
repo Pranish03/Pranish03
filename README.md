@@ -20,7 +20,7 @@
 
 ### Skills & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postgres,mongodb,redis,neovim" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postgres,mongodb,redis,neovim,vercel" />
 </p>
 
 

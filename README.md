@@ -9,10 +9,10 @@
 </div>
 
 
-### Tech Stack
+### Stacks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,typescript,react,nextjs,express,fastapi,pytorch" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,typescript,react,nextjs,express,nestjs,fastapi,pytorch" />
 </p>
 
 

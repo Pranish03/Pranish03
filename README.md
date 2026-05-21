@@ -41,7 +41,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Pranish03&theme=transparent&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranish03&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranish03&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranish03&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranish03&theme=transparent" alt="Top Languages" />
 </div>

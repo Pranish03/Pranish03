@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/Pranish03.png" width="80" style="border-radius:50%;" alt="Pranish Chaulagain" />
-  <h2>Pranish</h2>
+  <h2>Pranish03</h2>
   <p>Full Stack Developer · Systems & AI/ML enthusiast</p>
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://pranishchaulagain.com.np)

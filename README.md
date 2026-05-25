@@ -5,7 +5,7 @@
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://pranishchaulagain.com.np)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranish-chaulagain-3b174b325/)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pc@pranishchaulagain.com.np)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:contact@pranishchaulagain.com.np)
 </div>
 
 <div align="center">

@@ -2,7 +2,7 @@
   <img src="https://github.com/Pranish03.png" width="80" style="border-radius:50%;" alt="Pranish Chaulagain" />
   <h2>Pranish03</h2>
 
-  <code>Full Stack Developer</code> &nbsp; <code>ML Enthusiast</code> &nbsp; <code>Building Games as a Side Quest</code>
+  <code>Full Stack Developer</code> &nbsp; <code>ML Enthusiast</code>
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://pranishchaulagain.com.np)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranish-chaulagain-3b174b325/)
@@ -16,7 +16,7 @@
 ### Skills & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,svelte,tailwind,express,nestjs,python,fastapi,scikitlearn,pytorch,cpp,lua,cs,unity,git,docker,linux,postgres,mongodb,redis,figma&perline=11" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,typescript,react,nextjs,tailwind,express,nestjs,fastapi,scikitlearn,git,docker,linux,postgres,mongodb,redis,figma" />
 </p>
 
 
@@ -25,7 +25,6 @@
 
 
 ### Currently Learning
-- Unity Development
 - Advanced Learning Algorithms
 - Realtime Backend Systems
 

@@ -21,7 +21,7 @@
 
 
 ### Interests
-`Algorithms & Data Structures` &nbsp; `Languages & Runtime` &nbsp; `Web/Mobile App` &nbsp; `ML Applications` &nbsp; `Game Development`
+`Algorithms & Data Structures` &nbsp; `Languages & Runtime` &nbsp; `Web/Mobile App` &nbsp; `ML Applications`
 
 
 ### Currently Learning

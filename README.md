@@ -16,12 +16,12 @@
 ### Skills & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,typescript,react,nextjs,tailwind,express,nestjs,fastapi,scikitlearn,git,docker,linux,postgres,mongodb,redis,figma" />
+  <img src="https://skillicons.dev/icons?i=cpp,lua,cs,python,typescript,react,nextjs,tailwind,figma,express,nestjs,fastapi,scikitlearn,linux,git,docker,mysql,postgres,mongodb,redis&perline=10" />
 </p>
 
 
 ### Interests
-`Algorithms & Data Structures` &nbsp; `Languages & Runtime` &nbsp; `Web/Mobile App` &nbsp; `ML Applications`
+`Algorithms & Data Structures` &nbsp; `Languages & Runtime` &nbsp; `Web/Mobile App` &nbsp; `ML Applications` &nbsp; `Game Development`
 
 
 ### Currently Learning

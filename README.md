@@ -2,7 +2,7 @@
   <img src="https://github.com/Pranish03.png" width="80" style="border-radius:50%;" alt="Pranish Chaulagain" />
   <h2>Pranish03</h2>
 
-  <code>Full Stack Developer</code> &nbsp; <code>ML Enthusiast</code>
+  <code>Programmer</code> &nbsp; <code>Problem Solver</code>
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://pranishchaulagain.com.np)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranish-chaulagain-3b174b325/)

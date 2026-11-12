@@ -16,7 +16,7 @@
 ### Skills & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,lua,cpp,python,java,typescript,react,nextjs,express,flask,fastapi,scikitlearn,linux,git,docker,sqlite,mysql,postgres,mongodb,redis&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,lua,cpp,python,java,typescript,react,nextjs,express,flask,scikitlearn,tensorflow,linux,git,docker,sqlite,mysql,postgres,mongodb,redis&perline=10" />
 </p>
 
 
